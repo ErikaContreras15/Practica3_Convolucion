@@ -4,10 +4,7 @@ import java.util.Arrays;
 import java.util.Locale;
 import javax.imageio.ImageIO;
 
-/**
- * Practica 3 - Filtro Sobel secuencial vs paralelo con Java Threads.
- * Uso: java -Xmx4g -cp bin Main [imagen] [repeticiones] [hilos]
- */
+
 public class Main {
 
     public static void main(String[] args) throws Exception {
