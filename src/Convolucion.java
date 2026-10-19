@@ -1,5 +1,5 @@
 /**
- * Filtro Sobel 3x3 (convolucion hecha a mano, sin OpenCV).
+ * Filtro Sobel 3x3 
  * Version secuencial y paralela con Thread.
  */
 public class Convolucion {
