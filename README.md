@@ -3,7 +3,7 @@
 Filtro de convolución **Sobel 3×3** aplicado a una imagen de **7289 × 4862 px**, comparando la versión **secuencial** con la **paralela** usando la clase `Thread` de Java. La máscara está programada a mano, **sin OpenCV**.
 
 **Integrantes:** Erika Contreras · Jorge Pizarro
-**Repositorio:** https://github.com/ErikaContreras15/Practica3_Convolucion
+
 
 ---
 
